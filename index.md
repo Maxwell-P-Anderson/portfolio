@@ -22,4 +22,4 @@ I hope that you enjoy your time here!
 
 # Projects:
 
-* [my first project](project1.html)
+* [My example project paget](project/projectExample.html)
