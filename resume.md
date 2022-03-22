@@ -1,6 +1,6 @@
 ---
 layout: dispPDF
-title: “Max’s First Project”
+title: “Max’s Current (1 page) Resume”
 ---
 
 <object data="images/PDFs/Maxwell_Anderson_Resume_20220221.pdf" type="application/pdf" width="690px" height="1000px">
