@@ -1,6 +1,6 @@
 ---
 layout: default
-title: “Max’s First Project”
+title: “Test File for projects pages”
 ---
 
 # Testing
