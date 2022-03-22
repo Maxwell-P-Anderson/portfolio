@@ -1,1 +1,0 @@
-Folder that will contain any and all 3d models in both .stl and .glb versions 
