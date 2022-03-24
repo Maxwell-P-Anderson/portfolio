@@ -10,7 +10,4 @@ This is a test to create the first standalone page on my website.
 ![Magnetometer data collection platform](../images/IMG_3834.jpeg)
 
 
-<model-viewer id="reveal" loading="eager" camera-controls auto-rotate src="../models/Astronaut.glb" alt="A 3D model of a shishkebab"></model-viewer>
-
-
-<model-viewer src="../models/3D_Models/Astronaut.glb" shadow-intensity="1" camera-controls></model-viewer>
+<model-viewer id="reveal" loading="eager" camera-controls auto-rotate src="../models/Astronaut.glb" alt="A 3D model of a shishkebab" shadow-intensity="1"></model-viewer>
