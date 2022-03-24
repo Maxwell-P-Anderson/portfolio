@@ -22,4 +22,4 @@ I hope that you enjoy your time here!
 
 # Projects:
 
-* [My example project page](projectExample.html)
+* [My example project page](./projects/projectExample.html)
