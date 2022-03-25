@@ -1,3 +1,9 @@
+## Welcome
+
+This repository is used to store the pages for a website for Maxwell Anderson. That website can be viewed here:
+
+[Maxwell Anderson's Project Portfolio](https://maxwell-p-anderson.github.io/portfolio/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Maxwell-P-Anderson/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
