@@ -24,7 +24,7 @@ I hope that you enjoy your time here!
 # Projects:
 
 | Project Title | Brief Project Description | Project Time Span |
-|:-------------:|---------------------------|:--------------:|
+|:-------------:|:--------------------------|:--------------:|
 |[Soft Robot for Surgical Innovations](./projects/Soft_Robot_for_Surgical_Innovations.html)| For my senior design project, my team and I worked for three clients from Medtronic to learn about the current state of soft robotics, and develop our own soft robot for future use in bronchoscopy| 2021 - 2022 |
 |[Evaluating Monin-Obukhov Simularity Theory](./projects/Monin_Obukhov.html)| Developed Matlab scripts and functions to calculate the statistics required to evaluate Monin-Obukhov Simularity Theory from years worth of collected atmospheric data.| 2021 - 2022 |
 |[Autonomous Robot that plays "Rocket League"](./projects/Rocket_League_Bot.html)| My team and I created an autonomous robot to play a game of "Rocket Leage" against other autonomus robots.| 2021 |
