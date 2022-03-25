@@ -7,13 +7,14 @@ title: “Max's Portfolio”
 
 Hello, my name is Maxwell Palen Anderson. 
 
-I am a Mechanical Engineering Senior in my final months of my undergraduate degree. I have been learning and working on my engineering knowledge ever since my freshman year of highschool when I joined the robotics club. That experience, and the lessons that it taught me, sparked a passion for building robotic systems, designing components, and working to solve problems.
+I am a Mechanical Engineering Senior in my final months of my undergraduate degree. I have been developing my engineering knowledge ever since my freshman year of high school when I joined the robotics club. That experience&mdash;and the lessons that it taught me&mdash;sparked a passion for building robotic systems, designing components, and working to solve problems.
 
-As a STEM focused student who loved social studies and the humanities, I have grown into an engineer who is concerned about the human experience, and always keeps the end user in mind. In my mind, there is no reason for engineers to do the work that we do, if no one can use what we make. Human-centered engineering is how I wish to give back to my community and how I want to leave my inpact.
+As a STEM focused student who loved social studies and the humanities, I have grown into an engineer who is concerned about the human experience and who always keeps the end user in mind. In my mind, there is no reason for engineers to do the work that we do, if no one can use what we make. Human-centered engineering is how I hope to make an impact and how I wish to give back to my community.
 
-In my college career I have worked on many projects, struggled through many classes, and done a lot of work that I am very proud of. This website is going to serve as an archive of each and every project that I have worked on, why it was important to me, and what I learned from it. 
+In college, I have worked on many projects and I am proud of what I have achieved after investing a lot of time and effort in each of them. This website serves as an archive of each project and describes why the project was important to me and what I learned from it. 
 
 I hope that you enjoy your time here!
+
 -Max
 
 # Resume:
