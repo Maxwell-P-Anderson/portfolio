@@ -180,6 +180,9 @@ td {
   border: 2px solid #d9d9d9;
 }
 
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
 form {
   padding: 20px;
   background: #f2f2f2;
