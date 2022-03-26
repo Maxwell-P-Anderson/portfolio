@@ -36,3 +36,7 @@ I hope that you enjoy your time here!
 |["Button Bop!" a hand-Eye Coordination Game](./projects/Button_Bop.html)| For my freshman projects class, my team and I made a game for Ryan Elementary School's Special Education Program for autistic and other special needs students.| 2018 |
 |[Pokemon themed Pinball Machine](./projects/Pinball.html)| Created a Pokemon themed working pinball machine out of laser cut and 3D printed components. For my efforts I won the silver key artistry award in architetural and industrial design.| 2016-2017 |
 |[Pneumatic Wings](./projects/Beauty_and_Beast_Wings.html)| I made a set of Pneumatic Wings as a prop in my Highschool's production of "Beauty and the Beast".| 2016 |
+
+# Publications
+
+* Co-Author on a paper that has been submitted to IEEE T-RO. The 1st author is Vani Sundaram. I earned the co-authorship on the paper from the work that is described in the two project entries: "Linear Discplacement to Magnetic field strength Correlation Platform", and "Platform for Calibrating Magnetometers in Dynamic Environments" -> Link will be provided once the paper has been published!
