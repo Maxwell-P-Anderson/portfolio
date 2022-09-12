@@ -41,4 +41,4 @@ I hope that you enjoy your time here!
 
 # Publications
 
-* Co-Author on a paper that has been submitted to IEEE T-RO. The 1st author is Vani Sundaram. I earned the co-authorship on the paper from the work that is described in the two project entries: "Linear Discplacement to Magnetic field strength Correlation Platform", and "Platform for Calibrating Magnetometers in Dynamic Environments" -> Link will be provided once the paper has been published!
+* Co-Author on a paper that has been submitted to IEEE T-RO. The 1st author is Vani Sundaram. I earned the co-authorship on the paper from the work that is described in the two project entries: "Linear Discplacement to Magnetic field strength Correlation Platform", and "Platform for Calibrating Magnetometers in Dynamic Environments" -> "Embedded Magnetic Sensing for Feedback Control of Soft HASEL Actuators"
