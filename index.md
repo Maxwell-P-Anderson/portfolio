@@ -38,6 +38,7 @@ I hope that you enjoy your time here!
 |[Pneumatic Wings](./projects/Beauty_and_Beast_Wings.html)| I made a set of Pneumatic Wings as a prop in my Highschool's production of "Beauty and the Beast".| 2016 |
 
 
+Test Project: [Test.wip](./projects/projectExample.html)
 
 # Publications
 
