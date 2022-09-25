@@ -1,10 +1,10 @@
 ---
 layout: dispPDF
-title: “Max’s Current (1 page) Resume”
+title: “Final Poster for Exposistion”
 ---
 
-<object data="images/PDFs/Final Expo-Poster.pdf" type="application/pdf" width="900px" height="890px">
-    <embed src="images/PDFs/Final Expo-Poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="images/PDFs/Final Expo-Poster.pdf">Download PDF</a>.</p>
+<object data="images/PDFs/Final_Expo-Poster.pdf" type="application/pdf" width="900px" height="890px">
+    <embed src="images/PDFs/Final_Expo-Poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="images/PDFs/Final_Expo-Poster.pdf">Download PDF</a>.</p>
     </embed>
 </object>
