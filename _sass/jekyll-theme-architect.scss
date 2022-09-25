@@ -74,7 +74,10 @@ header h2 {
 }
 
 aside#sidebar {
-  float: right;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  right: 5%;
   width: 200px;
   min-height: 504px;
   padding-left: 20px;
