@@ -1,8 +1,10 @@
-My senior capstone project was to work on the research and development of a Soft Robot for minimally invasive surgery within the lung.
+My senior capstone project was to work on the research and development of a Soft Robot for minimally invasive surgery within the lung. Our porject was provided by industry clients at Medtronic, who wished for a better understanding of the current state of the field, as well as the benfits and detriments of soft systems.
 
-I was on a group of ten people and worked as the team's logistics manager and technical expert. As the only person on the team to have any background with soft robotics matter, I helped provide a larger knowledge base and I did what I could to help guide the team.
+I was on a group of ten people and worked as the team's communication and logistics manager. In this role, I worked closely with our clients, translated client requests into action items for the team, provided detailed progress updates, ask for feedback, and helped our team implement client advice. 
 
-This additional knowledge that I had was immensely helpful 
+Additionally, as the only person on the team that had any background with soft robotics, I helped provide a larger base of knowldge for the team to work from. As a result of this, I naturally fell into the role of the technical lead for the project. As such, I helped direct our preliminary research, assisted our team's CAD, manufacturing, and testing engineers to develop over 55 prototypes over the span of the project, and acted as the point person of the mechanical design of the robot. While taking care of these responsibilities, I worked closely with the project manager to coordinate the team, manage team commincation, and delegated tasks to make the most of each member's skills.
+
+This project was incredibly formative for me as an engineer, a leader, and a follower. The project provided a significat technical challenge, working with and coordinating a team of ten people was a considerable social one. Working in such a large team required decisiviness, we needed to quickly make progress and move towards our goal and having so many people meant it was easy to get sidetracked. However, our large team was to our benfit too! We where a team of experienced engineering students, with different backgrounds and skilsets, and each of us had so much to offer the team and the project. Finding the delicate balance between ideation, and action is one skill that I will take forward with me into my future career. 
 
 
 [Soft Robotic Capstone Poster](CapstonePoster.html)
