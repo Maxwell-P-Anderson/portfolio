@@ -10,12 +10,14 @@ The goal of the game was to make a game that was both visually and physically en
 
 Here is a video of the game operating and being played:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qsCmzDEvox4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Difficulties
 
-Before this project, I knew next to nothing about Aurduino programming, and niether did my team mates. Unfortunately for our team our game would have to implement an aurduino in order to run the game logic, and coordinate the different LED circuits. I decided to step up and learn everything one needed to know to develop this game and became our team's resident programmer. I spent 8 hours a week for 6 weeks in the office hours of CU's ITLL's resident proects consulting engineer who taught all of the aurdino workshops to develop my skills and slowly but surely developo the logic of our game. It would have been more simple to have set positions for each LED color, but we wanted to randomize the position 
-
+Before this project, I knew next to nothing about Aurduino programming, and niether did my team mates. Unfortunately for our team our game would have to implement an aurduino in order to run the game logic, and coordinate the different LED circuits. I decided to step up and learn everything we needed to know to develop this game and became our team's resident programmer. I spent 8 hours a week for 6 weeks in the office hours of the projects consulting engineer who taught the aurdino workshops in order to develop my own skills and develop the logic of our game. It would have been more simple to have set positions for each LED color on the board, but we wanted to randomize the position of the colors each round. This was to better stimulate the students and make it so they had to process more information to excecute the each action.
 
 # Lessons Learned
+
 
 
 
@@ -24,4 +26,9 @@ Before this project, I knew next to nothing about Aurduino programming, and niet
 
 
 ## Soft Skills
-
+* Programming in C++
+* Arduino programming
+* Soldering
+* Electrical circuts
+* Game development
+* 
