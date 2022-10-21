@@ -18,8 +18,7 @@ Before this project, I knew next to nothing about Aurduino programming, and niet
 
 # Lessons Learned
 
-
-
+I had some prior experience working with clients and project goals, but this was my first oppurtunity and deepen these skills and apply them in a long term project. I learned how to ask the right questions to get to the heart of what our client wanted out of this project.
 
 ## Technical Skills
 
