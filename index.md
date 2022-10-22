@@ -41,8 +41,10 @@ I hope that you enjoy your time here!
 Test Project: [Test.wip](./projects/projectExample.html)
 
 <!-- <img src="UnderConstruction.png" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" /> -->
-
-<img onmouseover="UnderConstruction.png" onmouseout="This text displayed?" border="0" src="UnderConstruction.png" alt="WIP" width="32" height="32">
+<details>
+    <summary>Details</summary>
+    <img border="0" src="UnderConstruction.png" alt="WIP" width="32" height="32">
+</details>
 
 # Publications
 
