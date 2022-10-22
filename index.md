@@ -40,6 +40,13 @@ I hope that you enjoy your time here!
 
 Test Project: [Test.wip](./projects/projectExample.html)
 
+<!-- <img src="UnderConstruction.png" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" /> -->
+
+<a href="#"><div class="hover-img">
+  Show Image
+   <span><img src="UnderConstruction.png" alt="image" height="100" />      </span>
+</div></a>
+
 # Publications
 
 * Co-Author on a paper that has been published in IEEE T-RO. 
