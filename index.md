@@ -34,17 +34,8 @@ I hope that you enjoy your time here!
 |<!--[Novel Flexible Tether for Robotic Capsule Endoscope](./projects/RCE_Tether.html)-->Novel Flexible Tether for Robotic Capsule Endoscope| Developed a novel tether for a new surgical robot that was thin, flexible, and had an interior concentric channel for tooling, or irrigation.| 2019 - 2020 |
 |<!--[3D Model of a Larin Vice](./projects/Larin_Vice.html)-->3D Model of a Larin Vice| For my intro to 3D modeling class, I fully disassembled, measured, and CADed my grandfather's Larin Vice. Model recreates the form and function of the vice.| 2019 |
 |["Button Bop!" a hand-Eye Coordination Game](./projects/Button_Bop.html)| For my freshman projects class, my team and I made a game for Ryan Elementary School's Special Education Program for autistic and other special needs students.| 2018 |
-|<!--[Pokemon themed Pinball Machine](./projects/Pinball.html)--><details><summary>Pokemon themed Pinball Machine</summary><img border="0"src="UnderConstruction.png" alt="WIP" width="128" height="128"></details>| Created a Pokemon themed working pinball machine out of laser cut and 3D printed components. For my efforts I won the silver key artistry award in architetural and industrial design.| 2016-2017 |
+|<!--[Pokemon themed Pinball Machine](./projects/Pinball.html)-->Pokemon themed Pinball Machine| Created a Pokemon themed working pinball machine out of laser cut and 3D printed components. For my efforts I won the silver key artistry award in architetural and industrial design.| 2016-2017 |
 |[Pneumatic Wings](./projects/Beauty_and_Beast_Wings.html)| I made a set of Pneumatic Wings as a prop in my Highschool's production of "Beauty and the Beast".| 2016 |
-
-
-Test Project: [Test.wip](./projects/projectExample.html)
-
-<!-- <img src="UnderConstruction.png" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" /> -->
-<details>
-    <summary>Pokemon themed Pinball Machine</summary>
-    <img border="0" src="UnderConstruction.png" alt="WIP" width="128" height="128">
-</details>
 
 # Publications
 
