@@ -42,10 +42,7 @@ Test Project: [Test.wip](./projects/projectExample.html)
 
 <!-- <img src="UnderConstruction.png" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" /> -->
 
-<a href="#"><div class="hover-img">
-  Show Image
-   <span><img src="UnderConstruction.png" alt="image" height="100" />      </span>
-</div></a>
+<img onmouseover="UnderConstruction.png" onmouseout="This text displayed?" border="0" src="UnderConstruction.png" alt="WIP" width="32" height="32">
 
 # Publications
 
