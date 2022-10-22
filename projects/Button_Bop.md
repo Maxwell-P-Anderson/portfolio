@@ -16,18 +16,30 @@ Here is a video of the game operating and being played:
 
 Before this project, I knew next to nothing about Aurduino programming, and niether did my team mates. Unfortunately for our team our game would have to implement an aurduino in order to run the game logic, and coordinate the different LED circuits. I decided to step up and learn everything we needed to know to develop this game and became our team's resident programmer. I spent 8 hours a week for 6 weeks in the office hours of the projects consulting engineer who taught the aurdino workshops in order to develop my own skills and develop the logic of our game. It would have been more simple to have set positions for each LED color on the board, but we wanted to randomize the position of the colors each round. This was to better stimulate the students and make it so they had to process more information to excecute the each action.
 
+Another difficulty, was that there where more than a few conflicts between some members of our team. One team member would often disregard the only woman on our team, and critizise her ideas disproportionately to how he would criticize the rest of the team. This lead to our team mate feeling increasesingly frustrated and isolated. Myself and another team member of ours consistently stood up for her, but it lead to an environmental that was antithetical to cooperation. There where other issues around team memnbers fooling around and nt working productively. I learned a lot about conflict resolution, such as how tocome to comprimises on design choices when needed and drawing hard lines between acceptable and unacceptable behavoir when necessary.
+
 # Lessons Learned
 
-I had some prior experience working with clients and project goals, but this was my first oppurtunity and deepen these skills and apply them in a long term project. I learned how to ask the right questions to get to the heart of what our client wanted out of this project.
+I had some prior experience working with clients and project goals, but this was my first oppurtunity and deepen these skills and apply them in a long term project. I learned how to ask the right questions to get to the heart of what our client wanted out of this project. Translating vauge ideas into actionable engineering specifications is a hard skill to learn but this project was simple and had a clear direction, which provided a great oppurtunity to learn.
+
+I also learned the value of incremental progress in prototypes and testing individual components of a project in development. As the point person for the code and electrical circuitry the way that I learned how to put everything together was to do it piece by piece. First I set up the LED circuits, making sure I could adress individual pins, and control their brightness with different resistors. Next, I worked on activating the LEDs with a button. Then I worked on toggling the button, then finally debouncing it. Once I fundementally understood those circuits and programs, I worked on making an RGB LED that would turn on a random color in a loop. I predetermined four colors to switch between and created an array that would randomly feel a value into a switch statement to turn on the LED.Once that was finished, I created a similar array of buttons coresponding to each color. 
+
+This was the first working version of our game. The LED would light up a color (Red, Green, Blue, Yellow) and the user would press the corresponding button. If the colors matched, then they got a point, if it didn't the user got no points and the next round started. Each button press caused the system to tick forward and choose a new random color. The feeling of creating and actual working game was tremendouse. Four weeks of hard work and studying paid off and when I got to show our progress to our client It was so gratifying. 
+
+Here is that video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VwK3r0ILzV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Technical Skills
 
-
-
-## Soft Skills
 * Programming in C++
 * Arduino programming
 * Soldering
 * Electrical circuts
 * Game development
-* 
+
+## Soft Skills
+
+* Client communication
+* Team communication
+* Conflic resoluition
