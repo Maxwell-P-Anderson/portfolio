@@ -42,8 +42,8 @@ Test Project: [Test.wip](./projects/projectExample.html)
 
 <!-- <img src="UnderConstruction.png" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" /> -->
 <details>
-    <summary>Details</summary>
-    <img border="0" src="UnderConstruction.png" alt="WIP" width="32" height="32">
+    <summary>Pokemon themed Pinball Machine</summary>
+    <img border="0" src="UnderConstruction.png" alt="WIP" width="128" height="128">
 </details>
 
 # Publications
