@@ -13,7 +13,7 @@ As a STEM focused student who loved social studies and the humanities, I have gr
 
 In college, I have worked on many projects and I am proud of what I have achieved after investing a lot of time and effort in each of them. This website serves as an archive of each project and describes why the project was important to me and what I learned from it. 
 
-<p class="wip"> I hope that you enjoy your time here!  <img src="UnderConstruction.png" width="400" height="300" alt="WIP"> </p> 
+I hope that you enjoy your time here! 
 
 -Max
 
@@ -26,7 +26,7 @@ In college, I have worked on many projects and I am proud of what I have achieve
 | Project Title | Brief Project Description | Project Time Span |
 |:-------------:|:--------------------------|:--------------:|
 |[Soft Robot for Surgical Innovations](./projects/Soft_Robot_for_Surgical_Innovations.html)| For my senior design project, my team and I worked for three clients from Medtronic to learn about the current state of soft robotics, and develop our own soft robot for future use in bronchoscopy| 2021 - 2022 |
-|<!--[Evaluating Monin-Obukhov Simularity Theory](./projects/Monin_Obukhov.html)-->Evaluating Monin-Obukhov Simularity Theory| Developed Matlab scripts and functions to calculate the statistics required to evaluate Monin-Obukhov Simularity Theory from years worth of collected atmospheric data.| 2021 - 2022 |
+|<!--[Evaluating Monin-Obukhov Simularity Theory](./projects/Monin_Obukhov.html)--><p class="wip"> Evaluating Monin-Obukhov Simularity Theory <img src="UnderConstruction.png" width="200" height="200" alt="WIP"> </p>| Developed Matlab scripts and functions to calculate the statistics required to evaluate Monin-Obukhov Simularity Theory from years worth of collected atmospheric data.| 2021 - 2022 |
 |<!--[Autonomous Robot that plays "Rocket League"](./projects/Rocket_League_Bot.html)-->Autonomous Robot that plays "Rocket League"| My team and I created an autonomous robot to play a game of "Rocket Leage" against other autonomus robots.| 2021 |
 |<!--[Linear Discplacement to Magnetic field strength Correlation Platform](./projects/Linear_Displacement_Correlation_Platform.html)-->Linear Discplacement to Magnetic field strength Correlation Platform| Designed, manufactured, asseblemed and used a novel platform to gathering data used to correlate the linear displacement of a new soft robotic actuator to a magnetic field strength.| 2020 - 2021 |
 |<!--[Dynamic Statue - Marble Machine](./projects/Marble_Machine.html)-->Dynamic Statue - Marble Machine| For my component design class, my team and I designed and fabricated a marble machine that utalized a CAM driven escalator.| 2021 |
