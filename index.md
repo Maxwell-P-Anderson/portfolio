@@ -13,7 +13,7 @@ As a STEM focused student who loved social studies and the humanities, I have gr
 
 In college, I have worked on many projects and I am proud of what I have achieved after investing a lot of time and effort in each of them. This website serves as an archive of each project and describes why the project was important to me and what I learned from it. 
 
-<p class="wip"> I hope that you enjoy your time here! <figure> <img src="http://lorempixel.com/400/300/" width="400" height="300" alt="photo"> </figure> </p>
+<p class="wip"> I hope that you enjoy your time here! <figure> <img src="UnderConstruction.png" width="400" height="300" alt="WIP"> </figure> </p>
 
 -Max
 
