@@ -20,9 +20,33 @@ p.wip {
   color: blue;
 }
 
-p.wip:hover {
-  color: red;
+p.wip figure {
+  display: none;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  padding: 0;
+  margin: 0;
+  border: 5px solid #fd0;
+  background: #fd0;
+  border-radius: 1em;
 }
+
+p.wip img {
+  display: block;
+  border-radius: 0.8em;
+  max-width: 100%;
+  height: auto;
+}
+
+p:focus figure,
+.p:hover figure {
+  display: block;
+}
+
+/* p.wip:hover {
+  color: red;
+} */
 
 a {
   color: #2879d0;
