@@ -42,4 +42,4 @@ Here is that video:
 
 * Client communication
 * Team communication
-* Conflic resoluition
+* Conflict resoluition
