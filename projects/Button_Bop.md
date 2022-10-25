@@ -42,16 +42,16 @@ Finally, our class also required us to perform some "Market Research" by showing
 Here are photos of them playing our game:
 
 ### Hoshea - Neighborhood Boy
-![Hoshea Testing](../images/JPEGs/HosheaTesting.png)
+![Hoshea Testing](../images/JPEGs/HosheaTesting.png =300x400)
 
 ### Mikayah - Neighborhood Boy
-![Mikayah Testing](../images/JPEGs/MikayahTesting.png) 
+![Mikayah Testing](../images/JPEGs/MikayahTesting.png =300x400) 
 
 ### Ovadiyah - Neighborhood Boy
-![Ovadiyah Testing](../images/JPEGs/OvadiyahTesting.png)
+![Ovadiyah Testing](../images/JPEGs/OvadiyahTesting.png =300x400)
 
 ### Miles - Younger Brother
-![Miles Testing](../images/JPEGs/MilesTesting.png)
+![Miles Testing](../images/JPEGs/MilesTesting.png =300x400)
 
 ## Technical Skills
 
