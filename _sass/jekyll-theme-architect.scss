@@ -49,7 +49,7 @@ li img {
   display: none;
 } 
 
-li p:hover + img {
+li a:hover + img {
   display: block;
 }
 
