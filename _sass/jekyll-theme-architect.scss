@@ -16,11 +16,18 @@ p {
   margin-top: 0;
 }
 
-p.wip {
+a {
+  color: #2879d0;
+}
+a:hover {
+  color: #2268b2;
+}
+
+a.wip {
   color: #666;
 }
 
-p.wip img {
+a.wip img {
   display: none;
   position: absolute;
   border-radius: 0.8em;
@@ -28,19 +35,12 @@ p.wip img {
   height: auto;
 }
 
-p.wip:hover img {
+a.wip:hover img {
   display: block;
 }
 
-p.wip:hover {
+a.wip:hover {
   color: #444;
-}
-
-a {
-  color: #2879d0;
-}
-a:hover {
-  color: #2268b2;
 }
 
 header {
