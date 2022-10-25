@@ -41,13 +41,13 @@ Finally, our class also required us to perform some "Market Research" by showing
 
 Here are photos of them playing our game:
 
-### Hoshea - Neighborhood Boy
+### Hoshea - Neighbor
 <img src="../images/JPEGs/HosheaTesting.png" width="300">
 
-### Mikayah - Neighborhood Boy
+### Mikayah - Neighbor
 <img src="../images/JPEGs/MikayahTesting.png" width="300">
 
-### Ovadiyah - Neighborhood Boy
+### Ovadiyah - Neighbor
 <img src="../images/JPEGs/OvadiyahTesting.png" width="300">
 
 ### Miles - Younger Brother
