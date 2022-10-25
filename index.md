@@ -7,7 +7,7 @@ title: “Max's Portfolio”
 
 Hello, my name is Maxwell Palen Anderson. 
 
-I am a Mechanical Engineering Senior in my final months of my undergraduate degree. I have been developing my engineering knowledge ever since my freshman year of high school when I joined the robotics club. That experience&mdash;and the lessons that it taught me&mdash;sparked a passion for building robotic systems, designing components, and working to solve problems.
+I am a Mechanical Engineering Masters student in my first semester of my graduate degree. I have been developing my engineering knowledge ever since my freshman year of high school when I joined the robotics club. That experience&mdash;and the lessons that it taught me&mdash;sparked a passion for building robotic systems, designing components, and working to solve problems.
 
 As a STEM focused student who loved social studies and the humanities, I have grown into an engineer who is concerned about the human experience and who always considers the end user in mind. In my mind, there is no reason for engineers to do the work that we do, if no one can use what we make. Human-centered engineering is how I hope to make an impact and how I wish to give back to my community.
 
