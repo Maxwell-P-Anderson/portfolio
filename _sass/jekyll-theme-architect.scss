@@ -16,6 +16,7 @@ p {
   margin-top: 0;
 }
 
+/*
 p.wip {
   color: blue;
 }
@@ -40,6 +41,15 @@ p.wip img {
 }
 
 p.wip:hover figure {
+  display: block;
+}
+*/
+
+li img {
+  display: none;
+} 
+
+li p:hover + img {
   display: block;
 }
 
