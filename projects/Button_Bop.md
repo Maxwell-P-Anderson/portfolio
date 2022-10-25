@@ -1,3 +1,10 @@
+---
+layout: default
+title: “Button Bop!”
+---
+
+# "Button Bop!"
+
 # Project Background
 
  In my freshman year of college, I took a generaly engineering projects class. This class aimed to give students with no experience with any hands on projects the relevant skills to take a projct from start to finish. This included classes and workshops that aimed to teach the basics of Arduino, machining and 3d modeling.
@@ -29,6 +36,22 @@ This was the first working version of our game. The LED would light up a color (
 Here is that video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VwK3r0ILzV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Finally, our class also required us to perform some "Market Research" by showing a prototype of our project to members of our target audience, and garnering feedback. Over the fall break I went back home and took the prototype shown above to my younger brother, and a few of the kids in the neighborhood. I explained to them the project, showed them drawings of what our final product would look like, and asked them to play the game. They all really enjoyed the concept of the game and their feedback was suprisingly insightful! This feedback and the videos I took of their reactions went into our groups PDR presentation to explain changes in our final design.
+
+Here are photos of them playing our game:
+
+### Hoshea - Neighborhood Boy
+![Hoshea Testing](../images/JPEGs/HosheaTesting.png)
+
+### Mikayah - Neighborhood Boy
+![Mikayah Testing](../images/JPEGs/MikayahTesting.png) 
+
+### Ovadiyah - Neighborhood Boy
+![Ovadiyah Testing](../images/JPEGs/OvadiyahTesting.png)
+
+### Miles - Younger Brother
+![Miles Testing](../images/JPEGs/MilesTesting.png)
 
 ## Technical Skills
 
