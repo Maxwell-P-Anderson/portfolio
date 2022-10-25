@@ -20,7 +20,7 @@ For the actor to be able to move unrestricted, we needed to keep the system ligh
  
  However, it all paid off when I was able to see a fully functional product on the stage. I knew that was a creation of my own design, and I was so proud to see it in action! Here is a photo of myself and the actor wearing the wings after his performance:
  
- [Actor and Wings](../images/JPEGs/Wings.png =300x400)
+ <img src="../images/JPEGs/Wings.png" width="300">
  
 # Lessons Learned
 
