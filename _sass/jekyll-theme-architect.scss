@@ -100,7 +100,7 @@ header h2 {
 .sticky {
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  top: 15px;
+  top: 25px;
 }
 
 aside#sidebar {
@@ -244,6 +244,10 @@ form {
   margin-left: -0.9em;
   color: #9ddcff;
   content: "/";
+}
+
+#main-content h1 a {
+  color: #474747;
 }
 
 #main-content h2 {
