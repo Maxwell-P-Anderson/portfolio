@@ -39,8 +39,8 @@ p.wip img {
   height: auto;
 }
 
-p:focus figure,
-.p:hover figure {
+p.wip:focus figure,
+p.wip:hover figure {
   display: block;
 }
 
