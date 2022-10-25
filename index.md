@@ -17,11 +17,11 @@ I hope that you enjoy your time here!
 
 -Max
 
-# [Resume:](#R)
+# [](#R)Resume:
 
 * [Maxwell Anderson's Resume](resume.html)
 
-# [Projects:](#Proj)
+# [](#Proj)Projects:
 
 <!--[Evaluating Monin-Obukhov Simularity Theory](./projects/Monin_Obukhov.html)-->
 <!--[Autonomous Robot that plays "Rocket League"](./projects/Rocket_League_Bot.html)-->
@@ -46,7 +46,7 @@ I hope that you enjoy your time here!
 |<a class="wip" href="#"> Pokemon themed Pinball Machine <img src="Underconstruction2.png" alt="WIP"> </a>| Created a Pokemon themed working pinball machine out of laser cut and 3D printed components. For my efforts I won the silver key artistry award in architetural and industrial design.| 2016-2017 |
 |[Pneumatic Wings](./projects/Beauty_and_Beast_Wings.html)| I made a set of Pneumatic Wings as a prop in my Highschool's production of "Beauty and the Beast".| 2016 |
 
-# [Publications](#Pub)
+# [](#Pub)Publications
 
 * Co-Author on a paper that has been published in IEEE T-RO. 
 
