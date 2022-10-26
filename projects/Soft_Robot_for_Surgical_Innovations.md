@@ -1,3 +1,5 @@
+# Soft Robot for Surgical Innovations
+
 # Project Background
 
 My senior capstone project was to work on the research and development of a Soft Robot for minimally invasive surgery within the lung. Our porject was provided by industry clients at Medtronic, who wished for a better understanding of the current state of the field, as well as the benfits and detriments of soft systems.
