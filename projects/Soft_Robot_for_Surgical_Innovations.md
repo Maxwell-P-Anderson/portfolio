@@ -35,5 +35,5 @@ This project was incredibly formative for me as an engineer, a leader, and a fol
 * Silicon Molding
 * Technical Communication
 * Team leadership and management
-** Delegation
+  * Delegation
 
