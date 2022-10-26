@@ -7,11 +7,11 @@ title: “Max's Portfolio”
 
 Hello, my name is Maxwell Palen Anderson. 
 
-I am a Mechanical Engineering Masters student in my first semester of my graduate degree. I have been developing my engineering knowledge ever since my freshman year of high school when I joined the robotics club. That experience&mdash;and the lessons that it taught me&mdash;sparked a passion for building robotic systems, designing components, and working to solve problems.
+I am a Mechanical Engineering Masters student at the University of Colorado Boulder, who is expecting to graduate in May 2023. I have been developing my engineering knowledge ever since my freshman year of high school when I joined the robotics club. That experience&mdash;and the lessons that it taught me&mdash;sparked a passion for building robotic systems, designing components, and working to solve problems.
 
-As a STEM focused student who loved social studies and the humanities, I have grown into an engineer who is concerned about the human experience and who always considers the end user in mind. In my mind, there is no reason for engineers to do the work that we do, if no one can use what we make. Human-centered engineering is how I hope to make an impact and how I wish to give back to my community.
+As a STEM focused student who loved social studies and the humanities, I have grown into an engineer who is concerned about the human experience and who always considers the end user in mind. In my mind, there is no reason for engineers to do the work we do if no one can use what we make. Engaging in _human-centered engineering_ is how I hope to make an impact and how I wish to give back to my community.
 
-In college, I have worked on many projects and I am proud of what I have achieved after investing a lot of time and effort in each of them. This website serves as an archive of each project and describes why the project was important to me and what I learned from it. 
+In college, (and even in high school) I have worked on many projects that I am proud of. Below is a record of what I have achieved after investing in these projects. This website serves as an archive of each project and describes why the project was important to me and what I learned from it. 
 
 I hope that you enjoy your time here! 
 
