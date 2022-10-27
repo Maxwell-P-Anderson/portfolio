@@ -172,6 +172,31 @@ aside a.button {
   background: transparent url(/portfolio/images/JPEGs/LinkedIn_logo_40.png) 0 0 no-repeat;
 }
 
+aside a.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+aside a.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+aside a.button:hover span {
+  padding-right: 25px;
+}
+
+aside a.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
