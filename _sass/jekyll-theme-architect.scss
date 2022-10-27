@@ -118,6 +118,21 @@ aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
 
+aside#sidebar details > summary {
+	background-color: #FAFAFA;
+  padding: 4px;
+  width: 200px;
+  border: none;
+  cursor: auto;
+}
+
+aside#sidebar details > p {
+  background-color: #EFEFEF;
+  padding: 16px;
+  margin: 0;
+  cursor: auto;
+}
+
 aside#sidebar img {
   border:5px solid #57868c;
   border-radius:35%;
