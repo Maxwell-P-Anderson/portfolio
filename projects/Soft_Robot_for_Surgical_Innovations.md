@@ -1,4 +1,4 @@
-# Soft Robot for Surgical Innovations
+# [Soft Robot for Surgical Innovations](#soft-robot-for-surgical-innovations)
 
 ## Project Background
 
