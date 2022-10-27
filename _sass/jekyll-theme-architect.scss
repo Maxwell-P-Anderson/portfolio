@@ -120,13 +120,10 @@ aside#sidebar p.repo-owner a {
 
 aside#sidebar details > summary {
   background-color: #FAFAFA;
-  padding: 4px;
+  padding: 0px;
   width: 200px;
   border: none;
   cursor: auto;
-}
-
-aside#sidebar details > summary {
   display: list-item;
 }
 
@@ -171,34 +168,8 @@ aside a.button {
   width: 40px;
   height: 40px;
   padding-left: 0px;
-  margin-bottom: 20px;
-  font-size: 21px;
+  margin-bottom: 4px;
   background: transparent url(/portfolio/images/JPEGs/LinkedIn_logo_40.png) 0 0 no-repeat;
-}
-
-aside a.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-aside a.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-aside a.button:hover span {
-  padding-right: 25px;
-}
-
-aside a.button:hover span:after {
-  opacity: 1;
-  right: 0;
 }
 
 code, pre {
