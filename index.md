@@ -3,7 +3,7 @@ layout: default
 title: “Max's Portfolio”
 ---
 
-# [About Me](#ab)
+# [About Me](#about-me)
 
 Hello, my name is Maxwell Palen Anderson. 
 
@@ -17,11 +17,11 @@ I hope that you enjoy your time here!
 
 -Max
 
-# [Resume](#res)
+# [Resume](#resume)
 
 * [Maxwell Anderson's Resume](resume.html)
 
-# [Publications](#pub)
+# [Publications](#publications)
 
 * Co-Author on a paper that has been published in IEEE T-RO. 
 
@@ -29,7 +29,7 @@ I hope that you enjoy your time here!
   
   I earned the co-authorship on the paper from the work that is described in the two project entries: "Linear Displacement to Magnetic Field Strength Correlation Platform," and "Platform for Calibrating Magnetometers in Dynamic Environments."
 
-# [Projects](#proj)
+# [Projects](#projects)
 
 <!--[Evaluating Monin-Obukhov Simularity Theory](./projects/Monin_Obukhov.html)-->
 <!--[Autonomous Robot that plays "Rocket League"](./projects/Rocket_League_Bot.html)-->
