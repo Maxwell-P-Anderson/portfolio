@@ -119,11 +119,15 @@ aside#sidebar p.repo-owner a {
 }
 
 aside#sidebar details > summary {
-	background-color: #FAFAFA;
+  background-color: #FAFAFA;
   padding: 4px;
   width: 200px;
   border: none;
   cursor: auto;
+}
+
+aside#sidebar details > summary {
+  display: list-item;
 }
 
 aside#sidebar details > p {
