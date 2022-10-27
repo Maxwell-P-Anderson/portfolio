@@ -149,11 +149,12 @@ header a.button {
 }
 aside a.button {
   display: block;
-  width: 64px;
+  width: 40px;
+  height: 40px;
   padding-left: 64px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(/portfolio/images/JPEGs/LinkedIn_logo.png) 0 0 no-repeat;
+  background: transparent url(/portfolio/images/JPEGs/LinkedIn_logo.png) 40px 40px no-repeat;
 }
 
 code, pre {
