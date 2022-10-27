@@ -3,7 +3,7 @@ layout: default
 title: “Beauty and Beast Wings”
 ---
 
-# Pneumatic Wings
+# [Pneumatic Wings](#pneumatic-wings)
 
 ## Project Background
 
