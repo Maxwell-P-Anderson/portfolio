@@ -37,7 +37,7 @@ I hope that you enjoy your time here!
 <!--[Dynamic Statue - Marble Machine](./projects/Marble_Machine.html)-->
 <!--[Platform for Calibrating Magnetometers in Dynamic Environments](./projects/Calibrate_Magnetometers.html)-->
 <!--[Novel Flexible Tether for Robotic Capsule Endoscope](./projects/RCE_Tether.html)-->
-<!--[3D Model of a Larin Vice](./projects/Larin_Vice.html)-->
+<!--[3D Model of a Larin Vise](./projects/Larin_Vise.html)-->
 <!--[Pokemon themed Pinball Machine](./projects/Pinball.html)-->
 
 | Project Title | Brief Project Description | Project Time Span |
@@ -49,7 +49,7 @@ I hope that you enjoy your time here!
 |<a class="wip" href="#"> Dynamic Statue - Marble Machine <img src="Underconstruction2.png" alt="WIP"> </a>| For my component design class, my team and I designed and fabricated a marble machine that utilized a CAM driven escalator.| 2021 |
 |<a class="wip" href="#"> Platform for Calibrating Magnetometers in Dynamic Environments <img src="Underconstruction2.png" alt="WIP"> </a>|Designed and fabricated a cheap, portable, and easy to use platform for the calibration of 3 axis magnetometers in new and varied environments.| 2020 |
 |<a class="wip" href="#"> Novel Flexible Tether for Robotic Capsule Endoscope <img src="Underconstruction2.png" alt="WIP"> </a>| Developed a novel tether for a new surgical robot that was thin, flexible, and had an interior concentric channel for tooling or irrigation.| 2019 - 2020 |
-|<a class="wip" href="#"> 3D Model of a Larin Vice <img src="Underconstruction2.png" alt="WIP"> </a>| For my intro to 3D modeling class, I fully disassembled, measured, and CADed my grandfather's Larin Vice. Model recreates the form and function of the vice.| 2019 |
+|<a class="wip" href="#"> 3D Model of a Larin Vise <img src="Underconstruction2.png" alt="WIP"> </a>| For my intro to 3D modeling class, I fully disassembled, measured, and CADed my grandfather's Larin Vise. Model recreates the form and function of the vise.| 2019 |
 |["Button Bop!" a Hand-Eye Coordination Game](./projects/Button_Bop.html)| For my freshman projects class, my team and I made a game for Ryan Elementary School's Special Education Program for autistic and other special needs students.| 2018 |
 |<a class="wip" href="#"> Pokemon-Themed Pinball Machine <img src="Underconstruction2.png" alt="WIP"> </a>| Created a Pokemon-themed working pinball machine from laser cut and 3D printed components. For my efforts I won the _Silver Key Artistry Award_ in Architetural and Industrial design.| 2016-2017 |
 |[Pneumatic Wings](./projects/Beauty_and_Beast_Wings.html)| I made a set of pneumatic wings as a prop in my high school's production of _Beauty and the Beast_.| 2016 |
