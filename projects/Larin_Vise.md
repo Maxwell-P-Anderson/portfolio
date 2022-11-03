@@ -5,8 +5,6 @@ title: “Calibrate Magnetometers”
 
 # [3D Model of Vise](#3d-model-of-vise)
 
-# Platform for Calibrating Magnetometers in Dynamic Environments](#platform-for-calibrating-magnetometers-in-dynamic-environments)
-
 ## Project Background
 
   
