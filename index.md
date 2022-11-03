@@ -33,11 +33,11 @@ I hope that you enjoy your time here!
 
 <!--[Evaluating Monin-Obukhov Simularity Theory](./projects/Monin_Obukhov.html)-->
 <!--[Autonomous Robot that plays "Rocket League"](./projects/Rocket_League_Bot.html)-->
-[Linear Discplacement to Magnetic Field Strength Correlation Platform](./projects/Linear_Displacement_Correlation_Platform.html)
+<!--[Linear Discplacement to Magnetic Field Strength Correlation Platform](./projects/Linear_Displacement_Correlation_Platform.html)-->
 <!--[Dynamic Statue - Marble Machine](./projects/Marble_Machine.html)-->
 <!--[Platform for Calibrating Magnetometers in Dynamic Environments](./projects/Calibrate_Magnetometers.html)-->
 <!--[Novel Flexible Tether for Robotic Capsule Endoscope](./projects/RCE_Tether.html)-->
-<!--[3D Model of a Larin Vise](./projects/Larin_Vise.html)-->
+[3D Model of a Larin Vise](./projects/Larin_Vise.html)
 <!--[Pokemon themed Pinball Machine](./projects/Pinball.html)-->
 
 | Project Title | Brief Project Description | Project Time Span |
