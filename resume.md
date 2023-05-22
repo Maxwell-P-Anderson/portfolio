@@ -4,7 +4,7 @@ title: “Max’s Current (1 page) Resume”
 ---
 
 <object data="images/PDFs/Maxwell_Anderson_Resume_V11-3-3.pdf" type="application/pdf" width="890px" height="900px">
-    <embed src="images/PDFs/Maxwell_Anderson_Resume_V11-3-3.pdf">
+    <embed src="images/PDFs/Maxwell_Anderson_Resume_051523.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="images/PDFs/Maxwell_Anderson_Resume_V11-3-3.pdf">Download PDF</a>.</p>
     </embed>
 </object>
